@@ -1,166 +1,137 @@
 <h1 align="center">Hi 👋, I'm Meeran Muzamil</h1>
 
 <h3 align="center">
-Privacy • Android • Reverse Engineering • Linux
+Privacy • Android • Reverse Engineering • Open Source
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Privacy-first+Developer;Android+Enthusiast;Reverse+Engineering;Linux+Enjoyer;Anime+%7C+Manhwa+%7C+Coffee" />
+  <img src="https://raw.githubusercontent.com/TheOwlKun/TheOwlKun/main/assets/waifu.png" width="320" alt="Anime Waifu"/>
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/TheOwlKun/TheOwlKun/main/assets/waifu.png" width="320" alt="Anime Waifu"/>
-</p>
-
-<p align="center">
-<i>"Privacy isn't hiding. It's choosing."</i>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=TheOwlKun&label=Profile+Views&color=7AA2F7&style=for-the-badge"/>
+  <i>"Privacy isn't hiding. It's choosing."</i>
 </p>
 
 ---
 
-# 🌙 About Me
+## 🌙 About Me
 
-```bash
-$ whoami
+```cpp
+class Meeran {
+public:
+    string alias      = "TheOwlKun";
+    string location   = "Kashmir";
+    string editor     = "VS Code";
+    string os         = "Linux";
+    string theme      = "Dark";
+    string waifu      = "2D > 3D";
 
-Name        :: Meeran Muzamil
-Alias       :: TheOwlKun
-OS          :: Linux
-Editor      :: VS Code
-Focus       :: Android • Privacy • Reverse Engineering
-Theme       :: Dark
-Philosophy  :: Privacy by Default
-Favorite    :: 2D > 3D
+    vector<string> interests = {
+        "Android",
+        "Reverse Engineering",
+        "Privacy",
+        "Networking",
+        "Linux",
+        "Open Source"
+    };
+};
 ```
 
-- 🔒 Privacy-first by design.
-- 📱 Android tinkerer and Linux enthusiast.
-- 🧩 Reverse engineering to understand how software really works.
-- ⚙ Passionate about open-source software.
-- 🌱 Always exploring something new.
-- ☕ Most active after midnight.
+- 🔒 Passionate about building privacy-first software.
+- 📱 Reverse engineering Android apps to understand how they really work.
+- 🛠 I enjoy creating useful tools more than flashy products.
+- 🌱 Always learning something new.
+- ☕ Usually coding late at night.
+- 🎌 Anime & Manhwa enthusiast.
 
 ---
 
-# ⚡ Philosophy
+## ⚡ Philosophy
 
-> **Software should respect its users.**
+> Privacy is a feature, not an afterthought.
 
-- 🔒 Privacy by Default
-- 🌍 Open Source over Closed Ecosystems
-- 🧠 Curiosity beats tutorials
-- 🛠 Build • Break • Learn
-- 🚫 No Telemetry
-- 🚫 No Unnecessary Paywalls
-- 💙 Simplicity over Complexity
+- 🔒 Privacy over surveillance.
+- 🌍 Open Source over closed ecosystems.
+- 🛠 Build it. Break it. Learn from it.
+- 🚫 No telemetry.
+- 🚫 No unnecessary paywalls.
+- 💙 Simplicity beats complexity.
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,python,nodejs,js,react,express,linux,bash,git,github,docker,vscode,mysql,firebase"/>
-
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,js,nodejs,python,react,express,linux,git,github,vscode,bash,docker,firebase,mysql" />
 </p>
 
 ---
 
-# 📚 Currently Exploring
+## 📚 Currently Exploring
 
 ```text
 ▸ Android Internals
-
 ▸ Reverse Engineering
-
 ▸ Native Libraries
-
 ▸ Frida
-
-▸ API Research
-
-▸ Networking
-
+▸ Network Traffic Analysis
 ▸ Linux
-
+▸ API Research
 ▸ Self Hosting
-
 ▸ Privacy Engineering
 ```
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=TheOwlKun&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=TheOwlKun&theme=tokyonight&hide_border=true"/>
-
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=TheOwlKun&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheOwlKun&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Graph
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/TheOwlKun/TheOwlKun/output/github-contribution-grid-snake-dark.svg"/>
-
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-# 📈 Activity Graph
+## 🎌 Off Duty
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheOwlKun&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🎌 Off Duty
-
-<p align="center">
-
 <img src="https://raw.githubusercontent.com/TheOwlKun/TheOwlKun/main/assets/waifu2.png" width="260"/>
-
 </p>
 
-When I'm not coding...
+When I'm not coding you'll probably find me...
 
-🌸 Reading Manga & Manhwa
+🌸 Reading manga & manhwa
 
-🎥 Watching Seasonal Anime
+🎥 Watching seasonal anime
 
-🎧 Anime OSTs on repeat
+🎧 Listening to anime OSTs
 
-🐧 Customizing Linux
+🌙 Living in dark mode
 
-☕ Coffee after midnight
+☕ Drinking coffee at 2 AM
 
-📱 Exploring Android internals
+📱 Trying random Android apps
 
-🌙 Living in Dark Mode
+🧩 Reverse engineering things that probably weren't meant to be reversed.
 
-**2D > 3D**
+**2D > 3D.**
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -168,10 +139,8 @@ When I'm not coding...
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
 <a href="https://t.me/Owl_Kun">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=telegram"/>
 </a>
 
 </p>
@@ -180,18 +149,15 @@ When I'm not coding...
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=TheOwlKun&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://komarev.com/ghpvc/?username=TheOwlKun&label=Profile%20Views&color=7aa2f7&style=for-the-badge"/>
 
 </p>
 
 ---
 
 <p align="center">
-
 <i>
-
-"Curiosity uncovers what documentation leaves behind."
-
+"Every app has a story.<br>
+I just like reading the parts that weren't meant to be read."
 </i>
-
 </p>
