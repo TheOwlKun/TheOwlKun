@@ -111,7 +111,7 @@ Favorite    :: 2D > 3D
 </p>
 
 <p align="center">
-<i>New account, old habits — reverse engineering things since before I had a GitHub to prove it.</i>
+<i>New account, old habits reverse engineering things since before I had a GitHub to prove it.</i>
 </p>
 
 ---
