@@ -8,7 +8,7 @@ Privacy • Android • Reverse Engineering • Linux
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/TheOwlKun/TheOwlKun/main/assets/waifu.png" width="320" alt="Anime Waifu"/>
+<img src="https://raw.githubusercontent.com/TheOwlKun/TheOwlKun/main/assets/waifuu.png" width="320" alt="Anime Waifu"/>
 </p>
 
 <p align="center">
