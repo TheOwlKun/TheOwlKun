@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Meeran Muzamil</h1>
 
 <h3 align="center">
-Privacy • Android • Reverse Engineering • Open Source
+Privacy • Android • Reverse Engineering • Linux
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Privacy-first+Developer;Android+Enthusiast;Reverse+Engineering;Linux+Enjoyer;Anime+%7C+Manhwa+%7C+Coffee" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Privacy-first+Developer;Android+Enthusiast;Reverse+Engineering;Linux+Enjoyer;Anime+%7C+Manhwa+%7C+Coffee" />
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/TheOwlKun/TheOwlKun/main/assets/waifu.png" width="330"/>
+<img src="https://raw.githubusercontent.com/TheOwlKun/TheOwlKun/main/assets/waifu.png" width="320" alt="Anime Waifu"/>
 </p>
 
 <p align="center">
@@ -24,20 +24,23 @@ Privacy • Android • Reverse Engineering • Open Source
 
 # 🌙 About Me
 
-```text
-Alias          :: TheOwlKun
-Focus          :: Android • Privacy • Reverse Engineering
-Operating Sys. :: Linux
-Editor         :: VS Code
-Coffee Level   :: ████████████ 100%
-Dark Mode      :: Always On
-Waifu          :: 2D > 3D
+```bash
+$ whoami
+
+Name        :: Meeran Muzamil
+Alias       :: TheOwlKun
+OS          :: Linux
+Editor      :: VS Code
+Focus       :: Android • Privacy • Reverse Engineering
+Theme       :: Dark
+Philosophy  :: Privacy by Default
+Favorite    :: 2D > 3D
 ```
 
-- 🔒 Privacy-first mindset.
-- 📱 Passionate about Android and Linux.
-- 🧩 I enjoy understanding how software works under the hood.
-- 🛠 Building things that are useful, simple and open.
+- 🔒 Privacy-first by design.
+- 📱 Android tinkerer and Linux enthusiast.
+- 🧩 Reverse engineering to understand how software really works.
+- ⚙ Passionate about open-source software.
 - 🌱 Always exploring something new.
 - ☕ Most active after midnight.
 
@@ -47,44 +50,46 @@ Waifu          :: 2D > 3D
 
 > **Software should respect its users.**
 
-- 🔒 Privacy by default.
-- 🌍 Open Source over closed ecosystems.
-- 🧠 Curiosity beats tutorials.
-- 🛠 Build • Break • Learn.
-- 🚫 No telemetry.
-- 🚫 No unnecessary paywalls.
-- 💙 Simplicity over complexity.
+- 🔒 Privacy by Default
+- 🌍 Open Source over Closed Ecosystems
+- 🧠 Curiosity beats tutorials
+- 🛠 Build • Break • Learn
+- 🚫 No Telemetry
+- 🚫 No Unnecessary Paywalls
+- 💙 Simplicity over Complexity
 
 ---
 
-# 🛠 Tech Stack
+# 🚀 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,python,nodejs,js,react,express,linux,bash,docker,git,github,vscode,mysql,firebase"/>
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,python,nodejs,js,react,express,linux,bash,git,github,docker,vscode,mysql,firebase"/>
 
 </p>
 
 ---
 
-# 📚 Exploring
+# 📚 Currently Exploring
 
 ```text
-📱 Android Internals
+▸ Android Internals
 
-🔍 Reverse Engineering
+▸ Reverse Engineering
 
-🧩 Native Libraries
+▸ Native Libraries
 
-🌐 API Research
+▸ Frida
 
-🛡 Privacy Engineering
+▸ API Research
 
-🐧 Linux
+▸ Networking
 
-⚙ Networking
+▸ Linux
 
-☁ Self Hosting
+▸ Self Hosting
+
+▸ Privacy Engineering
 ```
 
 ---
@@ -131,7 +136,7 @@ Waifu          :: 2D > 3D
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/TheOwlKun/TheOwlKun/main/assets/waifu2.png" width="250"/>
+<img src="https://raw.githubusercontent.com/TheOwlKun/TheOwlKun/main/assets/waifu2.png" width="260"/>
 
 </p>
 
@@ -141,21 +146,21 @@ When I'm not coding...
 
 🎥 Watching Seasonal Anime
 
-🎧 Listening to Anime OSTs
-
-☕ Drinking Coffee
-
-🌙 Living in Dark Mode
+🎧 Anime OSTs on repeat
 
 🐧 Customizing Linux
 
-📱 Exploring Android
+☕ Coffee after midnight
+
+📱 Exploring Android internals
+
+🌙 Living in Dark Mode
 
 **2D > 3D**
 
 ---
 
-# 🌐 Connect
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -183,7 +188,10 @@ When I'm not coding...
 
 <p align="center">
 
-> **"Every app has a story.**  
-> **I just like reading the parts that weren't meant to be read."**
+<i>
+
+"Curiosity uncovers what documentation leaves behind."
+
+</i>
 
 </p>
