@@ -106,6 +106,10 @@ Favorite    :: 2D > 3D
 # 🌱 Metrics
 
 <p align="center">
+<img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/TheOwlKun/TheOwlKun/main/badges/joined.json&style=for-the-badge"/>
+</p>
+
+<p align="center">
 <img src="https://raw.githubusercontent.com/TheOwlKun/TheOwlKun/main/github-metrics.svg"/>
 </p>
 
