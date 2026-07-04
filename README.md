@@ -1,68 +1,34 @@
-<h1 align="center">👋 yo, I'm Owl</h1>
+# Hi 👋, I'm Meeran Muzamil
 
-<h3 align="center">🛡️ Privacy-first Android dev · Reverse engineer · Cybersecurity nerd</h3>
+### Privacy-first Android dev & API reverse engineer
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Breaking+things+to+understand+them;Building+tools+that+respect+your+data;Kotlin+by+day%2C+Ghidra+by+night;No+telemetry.+No+ads.+No+BS." alt="Typing SVG" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TheOwlKun&label=Profile views&color=0e75b6&style=flat" alt="TheOwlKun" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TheOwlKun" alt="TheOwlKun" /></a> </p>
+
+- 🔭 I'm currently working on **ai-image-proxy — OpenAI/Gemini-compatible image gen API**
+
+- 🌱 I'm currently learning **deeper reverse engineering (Frida, traffic interception, undocumented APIs)**
+
+- 👯 I'm looking to collaborate on **privacy tools & API proxies — no paywalls, no telemetry**
+
+- 💬 Ask me about **Android privacy tooling, reverse engineering APIs, self-hosted proxies**
+
+- 📫 How to reach me **t.me/Owl_Kun**
+
+- ⚡ Fun fact **2D > 3D, this is not up for debate**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/TheOwlKun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="TheOwlKun" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a></p>
 
-### 🦉 About me
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheOwlKun&show_icons=true&locale=en&layout=compact" alt="TheOwlKun" /></p>
 
-```yaml
-name: TheOwlKun
-role: Android developer / privacy tinkerer
-focus: privacy tools, reverse engineering, free & open proxy/VPN tech
-philosophy: "if it phones home, it's not yours"
-currently_building: local-only Android privacy tooling (no backend, no data leaves device)
-also_into: anime, manhwa, manga (2D >>> 3D, no debate)
-```
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheOwlKun&show_icons=true&locale=en" alt="TheOwlKun" /></p>
 
-I like taking apps apart to see how they leak your data — then building the version that doesn't.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TheOwlKun&" alt="TheOwlKun" /></p>
 
----
-
-### 🔧 What I'm building
-
-- 🛡️ **[Share Sanitizer](https://github.com/TheOwlKun/Share-Sanitizer)** — zero-permission Android app that strips tracking params, GPS/EXIF data (including MakerNote blobs), and shady redirect junk from links & images before you share them. 100% local. Live on F-Droid.
-- 🔥 **Local Firewall & Permission Auditor** *(in progress)* — VpnService-based per-app network blocking + privacy scoring, no root, no cloud, no snitching.
-- 🕵️ Reverse engineering random APKs and APIs to see what they're actually doing behind your back.
-
----
-
-### 🧰 Tech & tools
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![F-Droid](https://img.shields.io/badge/F--Droid-1976D2?style=for-the-badge&logo=fdroid&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
-**Also in the toolbox:** Shizuku, ADB, LSPatch, Frida-curious, Burp-curious, VpnService internals
-
----
-
-### 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheOwlKun&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheOwlKun&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheOwlKun&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="165"/>
-</p>
-
----
-
-### 📡 Off-duty
-
-- 📖 Currently reading whatever manhwa dropped this week
-- 🎌 2D loyalist — don't @ me
-- 🎮 PC gaming + tweaking desktops until they look unnecessarily cool
-- ☕ Fueled by chai, not VC funding
-
----
-
-<p align="center"><i>"Privacy isn't paranoia. It's just good hygiene."</i></p>
