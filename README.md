@@ -135,6 +135,27 @@ When I'm not coding...
 
 ---
 
+# ☕ Support
+
+<table>
+<tr>
+<td width="30%" align="center">
+<img src="https://raw.githubusercontent.com/TheOwlKun/TheOwlKun/main/assets/waifu_coffee.png" width="200" alt="coffee waifu"/>
+</td>
+<td width="70%" valign="middle" align="center">
+
+If any of this helped you, or you just like what I'm building — coffee keeps the reverse engineering going.
+
+<a href="https://www.buymeacoffee.com/theowlkun" target="_blank">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;">
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
 # 🌐 Connect With Me
 
 <p align="center">
