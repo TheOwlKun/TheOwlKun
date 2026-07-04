@@ -103,15 +103,10 @@ Favorite    :: 2D > 3D
 
 ---
 
-# 🌱 Journey
+# 🌱 Metrics
 
 <p align="center">
-<img src="https://img.shields.io/badge/GitHub-Joined%20July%202026-7AA2F7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Status-Just%20getting%20started-7AA2F7?style=for-the-badge"/>
-</p>
-
-<p align="center">
-<i>New account, old habits reverse engineering things since before I had a GitHub to prove it.</i>
+<img src="https://raw.githubusercontent.com/TheOwlKun/TheOwlKun/main/github-metrics.svg"/>
 </p>
 
 ---
