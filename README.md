@@ -8,7 +8,7 @@ Privacy • Android • Reverse Engineering • Linux
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/TheOwlKun/TheOwlKun/main/assets/waifuu.png" width="320" alt="Anime Waifu"/>
+<img src="https://raw.githubusercontent.com/TheOwlKun/TheOwlKun/main/assets/waifu.png" width="320" alt="Anime Waifu"/>
 </p>
 
 <p align="center">
@@ -61,7 +61,7 @@ Favorite    :: 2D > 3D
 # 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,python,nodejs,js,react,express,linux,bash,git,github,docker,vscode,mysql,firebase"/>
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,python,nodejs,js,react,linux,git,github,docker,vscode"/>
 </p>
 
 ---
