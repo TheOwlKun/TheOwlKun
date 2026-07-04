@@ -1,0 +1,53 @@
+name: Update Joined Badge
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate badge JSON
+        run: |
+          mkdir -p badges
+          python3 - <<'EOF'
+          import json
+          from datetime import date
+
+          joined = date(2026, 7, 3)
+          today = date.today()
+          delta_days = (today - joined).days
+
+          if delta_days < 30:
+              message = f"{delta_days} day{'s' if delta_days != 1 else ''} ago"
+          elif delta_days < 365:
+              months = delta_days // 30
+              message = f"{months} month{'s' if months != 1 else ''} ago"
+          else:
+              years = delta_days // 365
+              message = f"{years} year{'s' if years != 1 else ''} ago"
+
+          badge = {
+              "schemaVersion": 1,
+              "label": "joined GitHub",
+              "message": message,
+              "color": "7AA2F7"
+          }
+
+          with open("badges/joined.json", "w") as f:
+              json.dump(badge, f)
+          EOF
+
+      - name: Commit badge
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add badges/joined.json
+          git diff --staged --quiet || git commit -m "update joined badge"
+          git push
